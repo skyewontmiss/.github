@@ -2,8 +2,6 @@
 <h3 align="center">We are an open source orginzation that works on many Scratch related things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cube-enix&label=Profile%20views&color=0e75b6&style=flat" alt="cube-enix" /> </p>
-<p aligh="left"> <img src="https://img.shields.io/github/followers/Cube-Enix?style=flat" alt="follow us" /></p>
-
 
 
 
