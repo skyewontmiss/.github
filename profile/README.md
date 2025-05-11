@@ -1,8 +1,8 @@
-<h1 align="center">Hello! We are Cube Enix</h1>
-<h3 align="center">We are an open source orginzation that works on many Scratch related things.</h3>
+<h1 align="center">i'm kiara. i make video games sometimes.</h1>
+<h3 align="center">typically about things i enjoy, but i do other things too whenever i need to. look at my latest commercial thing. it's kinda fun.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cube-enix&label=Profile%20views&color=0e75b6&style=flat" alt="cube-enix" /> </p>
-
+<h3 align="left">stuff i made:</h3>
+<p align="left"> <a href="https://store.steampowered.com/app/2734590/Poly_Beats/">
 
 
 <h3 align="left">Languages and Tools:</h3>
