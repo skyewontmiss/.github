@@ -2,7 +2,7 @@
 <h3 align="center">typically about things i enjoy, but i do other things too whenever i need to. look at my latest commercial thing. it's kinda fun.</h3>
 
 <h3 align="left">stuff i made:</h3>
-<p align="left"> <a href="https://store.steampowered.com/app/2734590/Poly_Beats/">
+[Poly Beats - A Different Kind Of 5K Rhythm Game](https://store.steampowered.com/app/2734590/Poly_Beats/)
 
 
 <h3 align="left">Languages and Tools:</h3>
