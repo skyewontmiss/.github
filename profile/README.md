@@ -1,4 +1,5 @@
-# i'm kiara. i make video games sometimes.
+# i'm kiara. i make video games sometimes, alongside videos about those games.
+you could say i make video^2 games.
 ### typically about things i enjoy, but i do other things too whenever i need to. look at my latest commercial thing. it's kinda fun.
 
 ***
