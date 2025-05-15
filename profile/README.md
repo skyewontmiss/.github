@@ -7,8 +7,9 @@ you could say i make video² games.
 [Poly Beats - A Different Kind Of 5K Rhythm Game](https://store.steampowered.com/app/2734590/Poly_Beats/)
 
 more projects coming soooon. just need to make them since i've been working on Poly Beats for quite a while.
+***
+## stuff i use to make the stuff that i do:
 
-#### stuff i use to make the stuff that i do:
 #### VERY REGULARLY
 <p align="left">
 	<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
