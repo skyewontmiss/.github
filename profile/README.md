@@ -10,4 +10,11 @@ more projects coming soooon. just need to make them since i've been working on P
 
 #### stuff i use to make the stuff that i do:
 #### REGULARLY
-![thing](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg)
+<p align="left"> <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rider/rider-original.svg"
+            alt="jetbrains rider" width="40" height="40" /> </a> <a href="https://www.jetbrains.com/rider/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"
+            alt="unity" width="40" height="40" /> </a>
