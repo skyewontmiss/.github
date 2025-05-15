@@ -10,7 +10,7 @@ more projects coming soooon. just need to make them since i've been working on P
 
 #### stuff i use to make the stuff that i do:
 #### VERY REGULARLY
-<p align="left">
+
 	<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
 		<img
             src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
@@ -23,10 +23,8 @@ more projects coming soooon. just need to make them since i've been working on P
 		<img
             src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity engine" width="40" height="40" />
 	</a>
-</p>
 
 #### REGULARLY
-<p align="left">
 	<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer">
 		<img
             src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40" />
@@ -43,4 +41,3 @@ more projects coming soooon. just need to make them since i've been working on P
 		<img
             src="https://media.licdn.com/dms/image/v2/C4E0BAQEVUkW9gs9HIQ/company-logo_200_200/company-logo_200_200/0/1662542117769?e=2147483647&v=beta&t=CoHM8Jl_W5RAvjoimFrkPovpkSs4PYAyLI3KEVk5lqU" alt="rokoko motion capture" width="40" height="40" />
 	</a>
-</p>
